@@ -88,6 +88,14 @@ section h2 {
     font-size: 32px;
 }
 
+#technology {
+    background-color: #b3c0d1;
+}
+
+#entertainment {
+    background-color: #ff8d8d;
+}
+
 #sports {
     background-color: rgba(0, 255, 0, 0.1)
 }
@@ -103,3 +111,7 @@ section h2 {
 #economy .article article a {
     background-color: #ff9f1a;
 }
+
+
+
+
